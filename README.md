@@ -5,3 +5,5 @@ Android App: SMS Gate.
 Questo è plugin di prova da cui prendere spunto.
 
 La configurazione viene svolta interamente nel backend di WordPress.
+
+Nell'app SMS Gate è necessario impostare "Cloud Mode" per far funzionare correttamente il plugin.
