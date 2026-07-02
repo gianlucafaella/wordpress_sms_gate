@@ -3,3 +3,5 @@ Questo plugin per WordPress permette di inviare messaggi mediante un Gateway SMS
 Android App: SMS Gate.
 
 Questo è plugin di prova da cui prendere spunto.
+
+La configurazione viene svolta interamente nel backend di WordPress.
